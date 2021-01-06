@@ -1,0 +1,30 @@
+.image {
+    Display: flex;
+    Border: Dotted 5px;
+    Background: red;
+    justify-content: space-between;
+}
+
+h1 {
+    border: solid white;
+}
+
+body {
+    Background: black;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    Border: dotted white;
+    Background: darkblue;
+}
+
+.p {
+    Border: solid white 5px;
+    padding: 5px;
+    margin: 5px;
+}
